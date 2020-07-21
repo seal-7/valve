@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22d98802-cb83-437a-88f3-b00dfe781931" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ezQJZaX63IoN2Pn4vl3s1jYpEQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ValveTest">
+    <configuration name="ValveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="valve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Service" />
+      <option name="MAIN_CLASS_NAME" value="Service.ValveTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValveTest.checkAccuracyFor100PercentOf10000Identifiers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="valve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Service" />
+      <option name="MAIN_CLASS_NAME" value="Service.ValveTest" />
+      <option name="METHOD_NAME" value="checkAccuracyFor100PercentOf10000Identifiers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValveTest.checkAccuracyFor25PercentOf10000Identifiers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="valve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Service" />
+      <option name="MAIN_CLASS_NAME" value="Service.ValveTest" />
+      <option name="METHOD_NAME" value="checkAccuracyFor25PercentOf10000Identifiers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValveTest.checkAccuracyFor50PercentOf10000Identifiers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="valve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Service" />
+      <option name="MAIN_CLASS_NAME" value="Service.ValveTest" />
+      <option name="METHOD_NAME" value="checkAccuracyFor50PercentOf10000Identifiers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValveTest.checkAccuracyFor75PercentOf10000Identifiers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="valve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Service" />
+      <option name="MAIN_CLASS_NAME" value="Service.ValveTest" />
+      <option name="METHOD_NAME" value="checkAccuracyFor75PercentOf10000Identifiers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ValveTest" />
+        <item itemvalue="JUnit.ValveTest.checkAccuracyFor100PercentOf10000Identifiers" />
+        <item itemvalue="JUnit.ValveTest.checkAccuracyFor75PercentOf10000Identifiers" />
+        <item itemvalue="JUnit.ValveTest.checkAccuracyFor50PercentOf10000Identifiers" />
+        <item itemvalue="JUnit.ValveTest.checkAccuracyFor25PercentOf10000Identifiers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22d98802-cb83-437a-88f3-b00dfe781931" name="Default Changelist" comment="" />
+      <created>1595321870963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595321870963</updated>
+      <workItem from="1595321872501" duration="10130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="284" key="#com.intellij.ide.util.MemberChooser" timestamp="1595322744752">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="284" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1595322744752" />
+    <state x="473" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595336602381">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="473" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1595336602381" />
+    <state width="1750" height="391" key="GridCell.Tab.0.bottom" timestamp="1595337061315">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595337061315" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1595324314895" />
+    <state width="1750" height="391" key="GridCell.Tab.0.center" timestamp="1595337061314">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595337061314" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1595324314894" />
+    <state width="1750" height="391" key="GridCell.Tab.0.left" timestamp="1595337061314">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595337061314" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1595324314894" />
+    <state width="1750" height="391" key="GridCell.Tab.0.right" timestamp="1595337061315">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595337061315" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1595324314895" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1595337061317">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595337061317" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1595337061316">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595337061316" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1595337061316">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595337061316" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1595337061316">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595337061316" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1595323308126">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1595323308126" />
+    <state x="675" y="296" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595322840418">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="675" y="296" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1595322840418" />
+    <state x="551" y="324" width="874" height="472" key="find.popup" timestamp="1595336728008">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="551" y="324" width="874" height="472" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1595336728008" />
+  </component>
+</project>
